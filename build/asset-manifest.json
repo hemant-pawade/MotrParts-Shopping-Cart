@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/motrparts-shopping-cart/static/css/main.745d6ac4.css",
+    "main.js": "/motrparts-shopping-cart/static/js/main.8133c671.js",
+    "index.html": "/motrparts-shopping-cart/index.html",
+    "main.745d6ac4.css.map": "/motrparts-shopping-cart/static/css/main.745d6ac4.css.map",
+    "main.8133c671.js.map": "/motrparts-shopping-cart/static/js/main.8133c671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745d6ac4.css",
+    "static/js/main.8133c671.js"
+  ]
+}
